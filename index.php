@@ -71,6 +71,7 @@ if (!empty($_SESSION['activa'])) {
       <div class="col" style="background-color: black; padding: 25px;"> <!-- Columna2 -->
         <div class="row">
           <h1 style="color: grey;  text-align: center; color:white;">AUTENTIFICACIÓN</h1>
+          <h1>HOLA MUNDO</h1>
         </div>
 
         <form style="padding: 25px;" method="POST">
